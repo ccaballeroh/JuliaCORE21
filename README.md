@@ -49,5 +49,7 @@ Con el siguiente calendario de actividades:
 |11:00 - 12:00 | Presentación del lenguaje (1) | Manejo de paquetes          | Visualización (1) | Aprendizaje automático |
 |12:00 - 13:00 | Presentación del lenguaje (2) | Ambientes de desarrollo     | Visualización (2) / Precompilado de paquetes | Aprendizaje profundo |
 
+
 Las [notas](./notes/README.md) del curso.
+
 Los [notebooks](./notebooks/README.md) del curso.
