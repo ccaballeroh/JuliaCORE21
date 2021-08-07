@@ -1,5 +1,3 @@
-# Introducción a Julia: El "Ju" en Jupyter
-
 ## Introducción
 
 En 2014, el proyecto de IPython decidió cambiar de nombre para reflejar mejor su filosofía de ciencia abierta. Por una parte, eligieron el nombre "Jupyter" como homenaje al trabajo de la descripción de las lunas de Júpiter en los cuadernos de notas de Galileo Galilei, y por otra parte, combinaron los tres nombres de los lenguajes de programación de código abierto más usados en ciencia: Julia, Python y R. Julia es un lenguaje de programación relativamente joven&mdash;su versión 1.0 salió en agosto de 2018&mdash;diseñado desde cero por computólogos del MIT para ser expresivo, (muy) rápido y apto para cómputo científico.
