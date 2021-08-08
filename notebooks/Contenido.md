@@ -1,4 +1,5 @@
-ïndice de los notebooks:
+# _Notebooks_
 
-1. [Curve Fittinig](./curve-fitting.jl.html)
-2. [Introducción a Pluto](./Intro_Pluto.jl.html)
+1. [Introducción a Pluto](./Intro_Pluto.jl.html)
+2. [Curve Fittinig](./curve-fitting.jl.html)
+
