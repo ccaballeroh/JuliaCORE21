@@ -54,4 +54,4 @@ Con el siguiente calendario de actividades:
 
 Las [notas](./notes/README.md) del curso.
 
-Los [notebooks](./notebooks/README.md) del curso.
+Los [notebooks](./notebooks/Contenido.md) del curso.
