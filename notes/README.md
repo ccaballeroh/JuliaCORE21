@@ -2,4 +2,4 @@
 
 1. [Instalación](./01Instalación.md)
 
-Ir al [inicio](./index.md)
+Ir al [inicio](../index.md)
