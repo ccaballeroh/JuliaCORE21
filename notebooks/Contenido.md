@@ -4,3 +4,5 @@
 2. [01 Empezando con Julia](./01.Empezando.jl.html)
 3. [Curve Fittinig](./curve-fitting.jl.html)
 
+Ir al [inicio](../index.md)
+
