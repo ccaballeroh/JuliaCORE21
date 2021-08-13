@@ -48,7 +48,7 @@ Con el siguiente calendario de actividades:
 |12:00 - 13:00 | Presentación del lenguaje (2) | Ambientes de desarrollo     | Manejo de datos tabulares                    | Más paquetes y recursos de aprendizaje | 
 
 
-Las [notas](./notes/README.md) del curso.
+Puedes ir a la página con las [notas](./notes/README.md) del curso.
 
-Los [notebooks](./notebooks/Contenido.md) del curso.
+Los [notebooks](./notebooks/Contenido.md) del curso se pueden ejecutar en (Binder)[https://mybinder.org/] o descargarlos a tu equipo.
 
