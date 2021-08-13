@@ -50,5 +50,5 @@ Con el siguiente calendario de actividades:
 
 Puedes ir a la página con las [notas](./notes/README.md) del curso.
 
-Los [notebooks](./notebooks/Contenido.md) del curso se pueden ejecutar en (Binder)[https://mybinder.org/] o descargarlos a tu equipo.
+Los [notebooks](./notebooks/Contenido.md) del curso se pueden ejecutar en [Binder](https://mybinder.org/) o descargarlos a tu equipo.
 
