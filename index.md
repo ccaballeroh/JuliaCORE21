@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En 2014, el proyecto de IPython decidió cambiar de nombre para reflejar mejor su filosofía de ciencia abierta. Por una parte, eligieron el nombre "Jupyter" como homenaje al trabajo de la descripción de las lunas de Júpiter en los cuadernos de notas de Galileo Galilei, y por otra parte, combinaron los tres nombres de los lenguajes de programación de código abierto más usados en ciencia: Julia, Python y R. Julia es un lenguaje de programación relativamente joven&mdash;su versión 1.0 salió en agosto de 2018&mdash;diseñado desde cero por computólogos del MIT para ser expresivo, (muy) rápido y apto para cómputo científico.
+En 2014, el proyecto de IPython decidió cambiar de nombre para reflejar mejor su filosofía de ciencia abierta. Por una parte, eligieron el nombre "Jupyter" como homenaje al trabajo de la descripción de las lunas de Júpiter en los cuadernos de notas de Galileo Galilei, y por otra parte, combinaron los tres nombres de los lenguajes de programación de código abierto más usados en ciencia: Julia, Python y R. Julia es un lenguaje de programación relativamente joven &mdash;su versión 1.0 salió en agosto de 2018&mdash; diseñado desde cero por computólogos del MIT para ser expresivo, (muy) rápido y apto para cómputo científico.
 
 Julia es dinámico y de alto nivel como Python; expresivo para álgebra lineal como MATLAB; rápido como Fortran o C; de código abierto; multiplataforma; reproducible; con un basto ecosistema propio y capaz de ejecutar código en Fortran, C y Python.
 
@@ -45,7 +45,7 @@ Con el siguiente calendario de actividades:
 
 | **Horario**  | **Lunes** 15/11/2021          | **Martes** 16/11/2021       | **Miércoles** 17/11/2021                     | **Jueves** 18/11/2021               | 
 |--------------|:-----------------------------:|:---------------------------:|:--------------------------------------------:|:-----------------------------------:|
-|10:00 - 11:00 | Presentación e Instalación    | Julia con "pilas incluidas" | Python desde Julia / Visualización (1)       | Aprendizaje automático              |      
+|10:00 - 11:00 | Presentación e instalación    | Julia con "pilas incluidas" | Python desde Julia / Visualización (1)       | Aprendizaje automático              |      
 |11:00 - 12:00 | Presentación del lenguaje (1) | Manejo de paquetes          | Visualización (2) / Precompilado de paquetes | Aprendizaje profundo                |               
 |12:00 - 13:00 | Presentación del lenguaje (2) | Ambientes de desarrollo     | Manejo de datos tabulares                    | Más paquetes y recursos de aprendizaje | 
 
