@@ -2,12 +2,22 @@
 
 Aquí tenemos las instrucciones para instalar en nuestra máquina:
 
-- Julia 
-- nteract, un programa para visualizar, editar y ejecutar *Jupyter notebooks*
+- Julia, y 
 - Visual Studio Code, un IDE completo, que es perfecto para Julia
 
 ## Julia
 
+Las instrucciones para instalar Julia para cada sistema operativo están en inglés en la [página de descargas](https://julialang.org/downloads/).
+
+Vamos a dar más detalle para instalar en Windows ya que si usas Linux/Mac lo más probable es que estés más familiarizado con el uso de la terminal y no tengas problema siguiendo las instrucciones de la documentación.
+
+Por el otro lado, en Windows hay ciertos detalles a cuidar. Tenemos dos opciones:
+
+1. La más nueva y rápida desde la [Microsoft Store](https://www.youtube.com/watch?v=rFlbjWC6zYA)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rFlbjWC6zYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Windows
 1. Editar la variable de entorno `JULIA_DEPOT_PATH` para que decidamos dónde se instalarán todos los paquetes. Esto es independiente del lugar en donde se instala Julia y por eso hay que hacerlo antes.
 	- Ejemplo: `JULIA_DEPOT_PATH=D:\.julia`
 2. Descargar el ejecutable del **instalador** de Julia desde [https://julialang.org/](https://julialang.org/) e instalar **como administrador** (dar clic derecho en el instalador y seleccionar "Ejecutar como Administrador") la versión más reciente (1.6.2 al momento de hacer este escrito) en la ubicación deseada.
