@@ -2,9 +2,9 @@
 
 Aquí tenemos las instrucciones para instalar en nuestra máquina:
 
-- [Julia](#Julia)
-- [Pluto y IJulia](#Pluto-y-IJulia) los paquetes necesarios para trabajar con _notebooks_
-- [Visual Studio Code](#Visual-Studio-Code), un IDE completo perfecto para Julia
+- [Julia](https://julialang.org/)
+- [Pluto](https://github.com/fonsp/Pluto.jl) y [IJulia](https://julialang.github.io/IJulia.jl/stable/) los paquetes necesarios para trabajar con _notebooks_
+- [Visual Studio Code](https://code.visualstudio.com/), un IDE completo perfecto para Julia
 
 Como prerrequisitos para la instalación debes contar con suficiente espacio en el disco duro en el que quieres instalar Julia (para el taller, al menos unos 10 GiB).
 
@@ -20,19 +20,19 @@ Como ya se mencionó, esto es independiente del lugar en donde se instala Julia 
 
 Una forma de hacer esto en Windows 10 es escribir `Variables de entorno` en el menú de inicio y seleccionar `Editar las variables de entorno del sistema`.
 
-![variables de entorno](../imgs/variables-entorno.png)
+![variables de entorno](../imgs/variables-entorno-01.png)
 
 Luego, hacer clic en el botón `Variables de entorno...` en la parte inferior derecha.
 
-![Editar](../imgs/variables-entorno_2.png)
+![Editar](../imgs/variables-entorno-02.png)
 
 En la parte inferior (variables del sistema), hacer clic en el botón `Nueva...`.
 
-![Editar](../imgs/variables-entorno_3.png)
+![Editar](../imgs/variables-entorno-03.png)
 
 Crear una variable que se llame `JULIA_DEPOT_PATH` y seleccionar la carpeta en la que deseemos que se instalen TODOS los paquetes adicionales de Julia. Por ejemplo, en otro disco duro con mayor capacidad.
 
-![Editar](../imgs/variables-entorno_4.png)
+![Editar](../imgs/variables-entorno-04.png)
 
 
 ## Julia
@@ -55,15 +55,15 @@ Esta forma se encarga de instalar un multiplexor de Julia, llamado [Juliaup](htt
 
 2. Escribe `Julia` en la barra de búsqueda y selecciona la aplicación.
 	
-	![MS store](../imgs/ms-store.png)
+	![MS store](../imgs/ms-store-01.png)
 
 2. Haz clic en el botón `Instalar`.
 
-	![Instalar](../imgs/ms-store-01.png)
+	![Instalar](../imgs/ms-store-02.png)
 
 3. ¡Listo! Ahora puedes abrir la consola de Julia como cualquier otra aplicación. Aunque si tienes instalada la consola de Windows (recomendada y disponible en la Microsoft Store también), también aparecerá ahí.
 
-	![Instalar](../imgs/ms-store-02.png)
+	![Instalar](../imgs/ms-store-03.png)
 
 
 
@@ -79,15 +79,15 @@ De esta forma, tendrás que manualmente instalar nuevas versiones de Julia confo
 
 	**N.B.** Asegúrate de tener derechos de escritura en los directorios donde  se instala Julia. Para modificar los permisos, haz clic derecho en la carpeta designada para `JULIA_DEPOT_PATH` (por ejemplo, `D:\.julia`) luego en "Propiedades", luego en la pestaña "Seguridad":
 	
-	![Image](../imgs/20201201004819.png)
+	![Image](../imgs/permisos-01.png)
 	
 	Dentro de esa pestaña, seleccionar "Usuarios" y en la sección inferior seleccionar el cuadro de `Control total` y dar "Aceptar".
 	
-	![Image ](../imgs/20201201004909.png)
+	![Image ](../imgs/permisos-02.png)
 
 3. ¡Listo! Ahora puedes abrir la consola de Julia como cualquier otra aplicación. Aunque si tienes instalada la consola de Windows (recomendada y disponible en la Microsoft Store también), también aparecerá ahí.
 
-	![Instalar](../imgs/ms-store-02.png)
+	![Instalar](../imgs/ms-store-03.png)
 
 ## Pluto y IJulia
 
@@ -95,7 +95,7 @@ De esta forma, tendrás que manualmente instalar nuevas versiones de Julia confo
 
 1. Descargar VS Code desde [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-	![Image](../imgs/20201130015509.png)
+	![Image](../imgs/vs-code-01.png)
 
 2. Al instalar, seleccionar:
 	- [X] Agregar la acción "Abrir con Code" al menú contextual de archivo del Explorador de Windows
