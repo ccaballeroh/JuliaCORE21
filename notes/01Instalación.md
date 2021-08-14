@@ -49,7 +49,7 @@ Por el otro lado, en Windows hay ciertos detalles a cuidar. Tenemos dos opciones
 
 ### 1. Desde la Microsoft Store
 
-Esta forma se encarga de instalar un multiplexor de Julia, llamado [`Juliaup`](https://github.com/JuliaLang/juliaup), que permite actualizar Julia e incluso instalar distintas versiones en la misma computadora y cambiar entre ellas de forma sencilla.
+Esta forma se encarga de instalar un multiplexor de Julia, llamado [Juliaup](https://github.com/JuliaLang/juliaup), que permite actualizar Julia e incluso instalar distintas versiones en la misma computadora y cambiar entre ellas de forma sencilla.
 
 1. Abre la Microsoft Store.
 
