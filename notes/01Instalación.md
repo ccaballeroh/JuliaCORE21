@@ -1,3 +1,5 @@
+[Regresar](../README.md)
+
 # Instalación
 
 Aquí tenemos las instrucciones para instalar en nuestra máquina:
@@ -185,3 +187,5 @@ Vamos a instalar VS Code:
 Listo, ya tenemos instalado Julia, los paquetes que nos permiten ver _notebooks_ tanto de Pluto como de Jupyter y un poderoso IDE.
 
 De hecho, ahora intenta descargar algún _Jupyter notebook_ de Julia y visualízalo y ejecútalo desde VS Code.
+
+[Regresar](../README.md)
