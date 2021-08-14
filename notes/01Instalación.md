@@ -99,7 +99,7 @@ Una vez instalado Julia en nuestra computadora, podemos abrirlo como cualquier o
 
 Esta consola se llama `REPL` (_Read-Evaluate-Print-Loop_ &mdash;Ciclo de lectura, evaluación e impresión&mdash; en español) y nos permite usar Julia de forma interactiva, acceder a la ayuda y al gestor de paquetes.
 
-Con el gestor de paquetes, Julia nos permite instalar paquetes adicionales a la biblioteca base de Julia. Al momento de escribir esto, hay más de 4000 paquetes en el [registro general](https://github.com/JuliaRegistries/General).
+Con el gestor de paquetes, Julia nos permite instalar paquetes adicionales a la biblioteca base. Al momento de escribir esto, hay más de 4000 paquetes en el [registro general](https://github.com/JuliaRegistries/General).
 
 Estos paquetes registrados están hospedados en [GitHub](https://github.com/). Vamos a instalar dos de estos paquetes:
 
