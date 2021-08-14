@@ -112,7 +112,7 @@ Para poder instalar paquetes, debemos acceder al gestor de paquetes intregado a 
 julia> ]
 (@1.6) pkg> 
 ```
-Nota que el _prompt_ cambió a `(@1.6) pkg>`. El número seguido del símbolo `@` nos indica el **ambiente** en el que estamos instalando los paquetes. En este caso es el base o principal.
+Nota que el _prompt_ cambió a `(@1.6) pkg>`. El símbolo `@1.6` nos indica el **ambiente** en el que estamos instalando los paquetes. En este caso es el base o principal.
 
 ### Pluto
 
