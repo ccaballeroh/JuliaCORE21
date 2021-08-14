@@ -1,6 +1,6 @@
-[Regresar](./README.md)
-
 # Instalación
+
+[Regresar](./README.md)
 
 Aquí tenemos las instrucciones para instalar en nuestra máquina:
 
