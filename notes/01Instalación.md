@@ -67,7 +67,7 @@ Esta forma se encarga de instalar un multiplexor de Julia, llamado [Juliaup](htt
 
 
 
-### 2. Intalación manual
+### 2. Instalación manual
 
 De esta forma, tendrás que manualmente instalar nuevas versiones de Julia conforme sean liberadas.
 
@@ -90,6 +90,45 @@ De esta forma, tendrás que manualmente instalar nuevas versiones de Julia confo
 	![Instalar](../imgs/ms-store-03.png)
 
 ## Pluto y IJulia
+
+Una vez instalado Julia en nuestra computadora, podemos abrirlo como cualquier otro programa instalado en Windows desde el menú de inicio; desde la Windows Terminal, o desde la línea de comandos escribiendo `julia`. La recomendación es usar la Windows Terminal por su soporte a Unicode.
+
+![Julia](../imgs/julia-01.png)
+
+Esta consola se llama `REPL` (_Read-Evaluate-Print-Loop_ &mdash;Ciclo de lectura, evaluación e impresión&mdash; en español) y nos permite usar Julia de forma interactiva, acceder a la ayuda y al gestor de paquetes.
+
+Con el gestor de paquetes, Julia nos permite instalar paquetes adicionales a la bibliteca base de Julia. Al momento de escribir esto, hay más de 4000 paquetes en el [registro general](https://github.com/JuliaRegistries/General).
+
+Estos paquetes registrados están hospedados en [GitHub](https://github.com/). Vamos a instalar dos de estos paquetes:
+
+1. Pluto
+2. IJulia
+
+Para poder instalar paquetes, debemos acceder al gestor de paquetes intregado a Julia tecleando `]`
+
+```julia
+julia> ]
+(@1.6) pkg> 
+```
+Nota que el _prompt_ cambió a `(@1.6) pkg>`. El número seguido del símbolo `@` nos indica el **ambiente** en el que estamos instalando los paquetes. En este caso es el base o principal.
+
+### Pluto
+
+Tal vez estés familiarizado con el ambiente de _notebooks_ de Jupyter. Aunque parezca increíble debido a su popularidad, [no a todo el mundo les gustan](https://youtu.be/7jiPeIFXb6U).
+
+Pluto es un enfoque diferente a trabajar con _notebooks_ ya que, aunque también se trabaje en el _browser_, es fundamentalmente distinto. Ya lo veremos en el primer [_notebook_](../notebooks/00.Introducción-a-Pluto.jl.html) del taller.
+
+Por ahora, solo lo instalaremos escribiendo
+
+```julia
+(@1.6) pkg> add Pluto
+```
+en el gestor de paquetes.
+
+### IJulia
+
+IJulia es el _kernel_ de Julia para Jupyter. Aunque no usaremos _notebooks_ de Jupyter en este taller, hay muchos materiales disponibles en Internet en este formato. Por lo tanto, lo instalaremos para que Julia esté visible desde tu instalación propia de Jupyter y puedas abrir _notebooks_ de Jupyter desde Jupyter Lab o incluso desde VS Code (a continuación lo instalaremos).
+
 
 ## Visual Studio Code
 
