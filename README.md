@@ -1,6 +1,6 @@
 # Introduction to Julia: the "Ju" in Jupyter
 
-This repo holds the material for a workshop to be held on november 2021 at the [CORE Congress 2021](http://www.core.ipn.mx/), an international congress in computer science traditionally hosted for over 20 years at the [Centro de Investigación en Computación](https://www.cic.ipn.mx/) (Center for Computing Research) of the [Instituto Politécnico Nacional](https://www.ipn.mx) (National Polytechnic Institute) of Mexico.
+This repo holds the material for a workshop to be held on November 2021 at the [CORE Congress 2021](http://www.core.ipn.mx/), an international congress in computer science traditionally hosted for over 20 years at the [Centro de Investigación en Computación](https://www.cic.ipn.mx/) (Center for Computing Research) of the [Instituto Politécnico Nacional](https://www.ipn.mx) (National Polytechnic Institute) of Mexico.
 
 All the materials are in Spanish. There are plently of resources in English already, this is a small effort to provide up-to-date Julia materials in Spanish. The content of the workshop is mainly based on [this repo](https://github.com/JuliaAcademy/Introduction-to-Julia). Although, the notebooks are adapted to [Pluto](https://github.com/fonsp/Pluto.jl) notebooks instead of Jupyter for this year's workshop.
 
