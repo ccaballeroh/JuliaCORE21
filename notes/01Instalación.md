@@ -3,7 +3,7 @@
 Aquí tenemos las instrucciones para instalar en nuestra máquina:
 
 - [Julia](https://julialang.org/)
-- [Pluto](https://github.com/fonsp/Pluto.jl) y [IJulia](https://julialang.github.io/IJulia.jl/stable/) los paquetes necesarios para trabajar con _notebooks_
+- [Pluto](https://github.com/fonsp/Pluto.jl) y [IJulia](https://julialang.github.io/IJulia.jl/stable/), los paquetes necesarios para trabajar con _notebooks_
 - [Visual Studio Code](https://code.visualstudio.com/), un IDE completo perfecto para Julia
 
 Como prerrequisitos para la instalación debes contar con suficiente espacio en el disco duro en el que quieres instalar Julia (para el taller, al menos unos 10 GiB).
