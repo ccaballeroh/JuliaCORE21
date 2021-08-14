@@ -123,24 +123,65 @@ Por ahora, solo lo instalaremos escribiendo
 ```julia
 (@1.6) pkg> add Pluto
 ```
-en el gestor de paquetes.
+en el gestor de paquetes. Al terminar, deberás tener una pantalla como la siguiente.
+
+![](../imgs/pluto-01.png)
 
 ### IJulia
 
 IJulia es el _kernel_ de Julia para Jupyter. Aunque no usaremos _notebooks_ de Jupyter en este taller, hay muchos materiales disponibles en Internet en este formato. Por lo tanto, lo instalaremos para que Julia esté visible desde tu instalación propia de Jupyter y puedas abrir _notebooks_ de Jupyter desde Jupyter Lab o incluso desde VS Code (a continuación lo instalaremos).
 
+En el gestor de paquetes, escribe
+
+```julia
+(@1.6) pkg> add IJulia
+```
+Al terminar, deberás tener una pantalla como la siguiente:
+
+![](../imgs/ijulia-01.png)
+
+Para salir del gestor de paquetes solo usa la tecla `retroceso` de tu teclado. Nota que el _prompt_ cambia a `julia> ` de nuevo.
 
 ## Visual Studio Code
 
-1. Descargar VS Code desde [https://code.visualstudio.com/](https://code.visualstudio.com/)
+El ambiente de desarrollo integrado (IDE, en inglés) que usaremos es Visual Studio Code de Mircrosoft. Este es un IDE muy bueno para muchos lenguajes de programación: es muy rápido, ligero, con control de versiones integrado e incluso una terminal.
+
+De forma oficial, un equipo de desarrolladores ha estado trabajando en la integración de [Julia en VS Code](https://www.julia-vscode.org/). Esta es la razón por la que lo usaremos.
+
+Además de lo anterior, VS Code nos permite visualizar ahora de forma nativa Jupyter Notebooks. Y como ya instalamos IJulia, de hecho ya podemos ejecutar (no solo visualizar) _notebooks_ de Jupyter escritos para Julia.
+
+Vamos a instalar VS Code:
+
+1. Descarga VS Code desde [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 	![Image](../imgs/vs-code-01.png)
 
-2. Al instalar, seleccionar:
+2. Instálalo como cualquier otro programa, pero al llegar a la siguiente pantalla, selecciona:
+
 	- [X] Agregar la acción "Abrir con Code" al menú contextual de archivo del Explorador de Windows
 	- [X] Agregar la acción "Abrir con Code" al menú contextual de directorio del Explorador de Windows
 	- [X] Agregar a PATH
 
-2. Al abrir VS Code, ir a las configuraciones de VS Code (engrane -> *Settings*) y buscar en las Extensiones la de Julia y modificar:
-	- `Julia: Executable Path` (hacia donde está el ejecutable de Julia) o añade Julia a la variable `PATH` del sistema
-	- Julia > `Execution:Result Type` (a *both*)
+	![vs-code](../imgs/vs-code-02.png)
+
+3. Abre VS Code.
+
+4. Ve a las configuraciones de VS Code (engrane -> *Settings* o el íconos de cubos).
+
+5. Busca la extensión de Julia y haz clic en `Install`.
+
+	![](../imgs/vs-code-03.png)
+
+6. Haz clic en la configuración de la extensión dando clic en el engrane.
+	
+	![](../imgs/vs-code-04.png)
+
+7. Activa la configuración palomenando el cuadro junto a `Julia: Notebook Controller`.
+
+	![](../imgs/vs-code-05.png)
+
+## Conclusión
+
+Listo, ya tenemos instalado Julia, los paquetes que nos permiten ver _notebooks_ tanto de Pluto como de Jupyter y un poderoso IDE.
+
+De hecho, ahora intenta descargar algún _Jupyter notebook_ de Julia y visualízalo y ejecútalo desde VS Code.
