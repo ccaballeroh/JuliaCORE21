@@ -49,8 +49,8 @@ Con el siguiente calendario de actividades:
 |11:00 - 12:00 | Presentación del lenguaje (1) | Manejo de paquetes          | Visualización (2) / Precompilado de paquetes | Aprendizaje profundo                |               
 |12:00 - 13:00 | Presentación del lenguaje (2) | Ambientes de desarrollo     | Manejo de datos tabulares                    | Más paquetes y recursos de aprendizaje | 
 
+---
 
-Puedes ir a la página con las [notas](./notes/README.md) del curso.
+- Los [notebooks](./notebooks/Contenido.md) del taller son páginas estáticas que puedes descargar para ejecutar en tu máquina o, en su defecto, puedes ejecutar en línea sin instalar nada gracias a [Binder](https://mybinder.org/) (solo sé paciente en lo que se asignan recursos y se instala el ambiente) haciendo clic en el mensaje en la parte superior derecha.
 
-Los [notebooks](./notebooks/Contenido.md) del curso se pueden ejecutar en [Binder](https://mybinder.org/) o descargarlos a tu equipo.
-
+- Hay algunas [notas](./notes/README.md) sobre el taller también.
