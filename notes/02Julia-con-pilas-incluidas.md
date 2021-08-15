@@ -8,7 +8,7 @@ Decimos que Julia viene con pilas incluidas porque al instalar Julia ya tenemos 
  
 ## Base
 
-El módulo principal que siempre está disponible desde que Julia arranca se llama `Base`.  Este módulo es el que nos permite tener disponibles funciones como `print()`, `println`, `pop!()`, `push!`, y también constantes y funciones matemáticas como `sum()`, $\pi$, $\sin()$, etc.
+El módulo principal que siempre está disponible desde que Julia arranca se llama `Base`.  Este módulo es el que nos permite tener disponibles funciones como `print()`, `println`, `pop!()`, `push!`, y también constantes y funciones matemáticas como `sum()`, `pi`, `sin`, etc.
 
 Ver la [documentación](https://docs.julialang.org/).
 
