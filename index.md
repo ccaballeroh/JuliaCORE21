@@ -8,7 +8,7 @@ Julia es dinámico y de alto nivel como Python; expresivo para álgebra lineal c
 
 ## Objetivo general
 
-El objetivo principal del taller es presentar una introducción completa a Julia, un lenguaje de programación de uso general moderno e ideal para cómputo científico, haciendo hincapié en qué hace a Julia único y presentando ejemplos de aplicaciones en análisis y presentación de datos, aprendizaje automático y aprendizaje profundo.
+El objetivo del taller es presentar una introducción completa a Julia, un lenguaje de programación de uso general moderno e ideal para cómputo científico, haciendo hincapié en qué hace a Julia único y presentando ejemplos de aplicaciones en análisis y presentación de datos, aprendizaje automático y aprendizaje profundo.
    
 ## Objetivos específicos
 
