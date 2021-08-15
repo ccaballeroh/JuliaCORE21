@@ -1,1 +1,1 @@
-Folder to hold images on notes
+Directorio con imágenes a mostrar en las notas
