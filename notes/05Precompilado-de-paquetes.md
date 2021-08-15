@@ -44,7 +44,7 @@ El *plug-in* de Julia para Visual Studio Code cuenta con una funcionalidad exper
 
 	![](../imgs/precompilado-04.png)
 	
-1. Aparecerá en la parte superior la opción `julia: Build custom sysimage for curren environment (experimental)`. Selecciona esta opción.
+1. Aparecerá en la parte superior la opción `julia: Build custom sysimage for current environment (experimental)`. Selecciona esta opción.
 
 	![](../imgs/precompilado-05.png)
 	
