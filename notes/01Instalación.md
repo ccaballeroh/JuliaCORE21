@@ -146,7 +146,7 @@ Para salir del gestor de paquetes solo usa la tecla `retroceso` de tu teclado. N
 
 ## Visual Studio Code
 
-El ambiente de desarrollo integrado (IDE, en inglés) que usaremos es Visual Studio Code de Mircrosoft. Este es un IDE muy bueno para muchos lenguajes de programación: es muy rápido, ligero, con control de versiones integrado e incluso una terminal.
+El ambiente de desarrollo integrado (IDE, en inglés) que usaremos es Visual Studio Code de Microsoft. Este es un IDE muy bueno para muchos lenguajes de programación: es muy rápido, ligero, con control de versiones integrado e incluso una terminal.
 
 De forma oficial, un equipo de desarrolladores ha estado trabajando en la integración de [Julia en VS Code](https://www.julia-vscode.org/). Esta es la razón por la que lo usaremos.
 
