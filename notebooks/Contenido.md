@@ -6,6 +6,8 @@ La introducción a Pluto está basada en un _notebook_ de la documentación de [
 
 1. [Introducción a Pluto](./00.Introducción-a-Pluto.jl.html)
 2. [Empezando con Julia](./01.Empezando.jl.html)
+3. [Aprendizaje profundo](./AA.Aprendizaje-profundo.jl.html)
+4. [Gradiente descendente](./AA.Gradiente-descendente.jl.html)
 
 Ir al [inicio](../index.md)
 
