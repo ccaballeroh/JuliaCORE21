@@ -51,6 +51,6 @@ Con el siguiente calendario de actividades:
 
 ---
 
-- Los [notebooks](./notebooks/Contenido.md) del taller son páginas estáticas que puedes descargar para ejecutar en tu máquina o, en su defecto, puedes ejecutar en línea sin instalar nada gracias a [Binder](https://mybinder.org/) (sólo sé paciente en lo que se asignan recursos y se instala el ambiente) haciendo clic en el mensaje en la parte superior derecha.
+- Los [_notebooks_](./notebooks/Contenido.md) del taller son páginas estáticas que puedes descargar para ejecutar en tu máquina o, en su defecto, puedes ejecutar en línea sin instalar nada gracias a [Binder](https://mybinder.org/) (sólo sé paciente en lo que se asignan recursos y se instala el ambiente) haciendo clic en el mensaje en la parte superior derecha.
 
 - Hay algunas [notas](./notes/README.md) sobre el taller también.
