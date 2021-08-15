@@ -4,7 +4,7 @@ This repo holds the material for a workshop to be held on November 2021 at the [
 
 All the materials are in Spanish. There are plenty of resources in English already&mdash;this is a small effort to provide up-to-date Julia materials in Spanish. The content of the workshop is mainly based on [this repo](https://github.com/JuliaAcademy/Introduction-to-Julia). Although, the notebooks are adapted to [Pluto](https://github.com/fonsp/Pluto.jl) notebooks instead of Jupyter for this year's workshop.
 
-Go to the [website](https://ccaballeroh.github.io/JuliaCORE2021/)
+Go to the [website](https://ccaballeroh.github.io/JuliaCORE21/)
 
 # Introducción a Julia: El "Ju" en Jupyter
 
@@ -12,4 +12,4 @@ Este es el contenido de un taller **introductorio** a Julia a presentarse en nov
 
 Todos los materiales están en español. Hay disponible suficiente material en inglés sobre Julia así que este es un pequeño esfuerzo de proporcionar materiales actualizados en español. El contenido del taller está basado principalmente en el material de [este repositorio](https://github.com/JuliaAcademy/Introduction-to-Julia). Aunque los _notebooks_ se adaptaron a [Pluto](https://github.com/fonsp/Pluto.jl) en lugar de los originales en Jupyter para el taller de este año.
 
-Ir al [sitio web](https://ccaballeroh.github.io/JuliaCORE2021/)
+Ir al [sitio web](https://ccaballeroh.github.io/JuliaCORE21/)
