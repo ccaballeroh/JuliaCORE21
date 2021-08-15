@@ -14,7 +14,7 @@ Ver la [documentación](https://docs.julialang.org/).
 
 ![](../imgs/julia-batteries-01.png)
 
-En la imagen de la documentación podemos ver que el módulo `Base` ya tiene funcionalidad para matemáticas como mencionamos, pero también para cadenas (por ejemplo, Julia cuenta con soporte nativo para expresiones regulares), entradas y salidas y redes, para cómputo paralelo y para el sistema de archivos (por ejemplo, funciones para cambiar el directorio de trabajo, para crear una carpeta, copiar un archivo o descargar un archivo desde una URL).
+En la imagen de la documentación podemos ver que el módulo `Base` ya tiene funcionalidad para matemáticas como mencionamos, pero también para cadenas (por ejemplo, Julia cuenta con soporte nativo para expresiones regulares), entradas y salidas y redes, para cómputo paralelo y para el sistema de archivos (por ejemplo, funciones para cambiar el directorio de trabajo, para crear una carpeta o opiar un archivo).
 
 ## Standard Library
 
