@@ -10,7 +10,7 @@ Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440
             src="https%3A%2F%2Ftwitter.com%2Faureliengeron%2Fstatus%2F1277751121440698368">
 </iframe>
 
-![example](./img/aurelien.png)
+![example](../imgs/aurelien.png)
 
 Antes de poder hacer eso, necesitamos agregar `PyCall` y `Conda` a nuestro ambiente de Julia. Al momento de escribir estas notas, al agregar `PyCall` a Julia, se instala miniconda con Python 3.9. TensorFlow sí está probado con Python 3.9 así que no es necesario cambiar la versión de Python que instala `PyCall`. Podemos agregar `tensorflow` desde el canal de `intel` ya que hay un [problema](https://github.com/tensorflow/tensorflow/issues/24172?s=08) con cuántos núcleos de CPU usa TensorFlow.
 
