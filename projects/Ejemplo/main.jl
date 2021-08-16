@@ -1,5 +1,5 @@
 using Example
 
-Example.hello("CORE 2020")
+Example.hello("CORE 2021")
 Example.domath(10)
 
