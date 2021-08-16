@@ -4,13 +4,13 @@ Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440
 
 ![example](./img/aurelien.png)
 
-Antes de poder hacer eso, necesitamos agregar `PyCall` y `Conda` a nuestro ambiente de Julia. Al momento de escribir esto, cuando uno agrega `PyCall` a Julia instala miniconda con Python 3.8. Sin embargo, TensorFlow corre con Python 3.7. Así que primero necesitamos instalar Python 3.7 y después ya podemos agregar `tensorflow` desde el canal de `intel` ya que hay un [problem](https://github.com/tensorflow/tensorflow/issues/24172?s=08) con cuántos núcleos de CPU usa TensorFlow.
+Antes de poder hacer eso, necesitamos agregar `PyCall` y `Conda` a nuestro ambiente de Julia. Al momento de escribir esto, cuando uno agrega `PyCall` a Julia instala miniconda con Python 3.9. Sin embargo, TensorFlow corre con Python 3.8. Así que primero necesitamos instalar Python 3.7 y después ya podemos agregar `tensorflow` desde el canal de `intel` ya que hay un [problema](https://github.com/tensorflow/tensorflow/issues/24172?s=08) con cuántos núcleos de CPU usa TensorFlow.
 
 ```julia
 julia> ]
 pkg> add PyCall Conda
 julia> import Conda
-julia> Conda.add("python=3.7")  # Para que Tensorflow sea compatible
+julia> Conda.add("python=3.8")  # Para que Tensorflow sea compatible
 julia> Conda.add("tensorflow", channel="intel")  # Para que tensorflow utilice todos los CPU
 ```
 

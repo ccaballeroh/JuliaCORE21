@@ -15,4 +15,3 @@ model.fit(X_train, y_train, epochs=100)
 
 X_new = tf.random.normal([2, 3])
 model.predict(X_new)
-
