@@ -1,4 +1,8 @@
-# Cómo correr TensorFlow en Julia
+# Cómo correr Python en Julia
+
+[Regresar](./README.md)
+
+---
 
 Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440698368/photo/1) un ejemplo usando TensorFlow en 100 % Julia.
 
@@ -39,3 +43,7 @@ Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440
     ```
 
 **NOTA:** PyCall [NO soporta](https://github.com/JuliaPy/Conda.jl) el uso de ambientes de Conda y por eso instalamos en el ambiente raíz.
+
+---
+
+[Regresar](./README.md)

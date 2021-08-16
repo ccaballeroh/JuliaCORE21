@@ -2,6 +2,8 @@
 
 [Regresar](./README.md)
 
+---
+
 Hemos visto que, cuando un ambiente independiente no cuenta con un módulo o paquete, el gestor de paquetes se encarga de descargar la versión especificada en los archivos TOML.
 
 Cuando el ambiente está vacío y agregamos un módulo o paquete, el gestor de paquetes descarga la versión más reciente y lo agrega a los archivos TOML. Si en la máquina en la que trabajamos, el paquete ya había sido previamente descargado (para otro ambiente, por ejemplo), Julia no lo vuelve a descargar, pero sí lleva tiempo cargarlo (usando `using` o `import`).
