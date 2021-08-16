@@ -2,13 +2,8 @@
 
 Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440698368/photo/1) un ejemplo usando TensorFlow en 100 % Julia:
 
-   <iframe
-            border=0
-            frameborder=0
-            height=450
-            width=550  
-            src="https%3A%2F%2Ftwitter.com%2Faureliengeron%2Fstatus%2F1277751121440698368">
-</iframe>
+<iframe border=0 frameborder=0 height=250 width=550
+ src="https%3A%2F%2Ftwitter.com%2Faureliengeron%2Fstatus%2F1277751121440698368"></iframe>
 
 ![example](../imgs/aurelien.png)
 
