@@ -41,6 +41,9 @@ Aurélien Geron [tuiteó](https://twitter.com/aureliengeron/status/1277751121440
     julia> ]
     pkg> build PyCall
     ```
+Ahora, ya podemos escribir un _script_ de Julia con el código de la imagen y ejecutarlo en Julia. Este procedimiento se puede realizar para cualquier paquete de Python, así que vemos que es muy fácil seguir usando tus funcinalidades favoritas desde Julia con `Conda` y `PyCall`.
+
+Revisa la [documentación](https://github.com/JuliaPy/PyCall.jl) de `PyCall.jl` para ver cómo ejecutar código de Python como cadenas de texto de Julia o usar una instalación preexistente de Python en tu equipo.
 
 **NOTA:** PyCall [NO soporta](https://github.com/JuliaPy/Conda.jl) el uso de ambientes de Conda y por eso instalamos en el ambiente raíz.
 
