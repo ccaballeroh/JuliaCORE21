@@ -43,9 +43,7 @@ Crear una variable que se llame `JULIA_DEPOT_PATH` y seleccionar la carpeta en l
 
 Las instrucciones para instalar Julia para cada sistema operativo están en inglés en la [página de descargas](https://julialang.org/downloads/).
 
-Vamos a dar más detalle para instalar en Windows ya que si usas Linux/Mac lo más probable es que estés más familiarizado con el uso de la terminal y no tengas problema siguiendo las instrucciones de la documentación.
-
-Por el otro lado, en Windows hay ciertos detalles a cuidar. Tenemos dos opciones:
+Vamos a dar más detalle para instalar en Windows porque hay ciertos detalles que cuidar. Para el caso de Linux/Mac, lo más probable es que estés más familiarizado con el uso de la terminal y no tengas problema siguiendo las instrucciones de la documentación.
 
 1. La más nueva y rápida (y versátil) desde la [Microsoft Store](https://www.youtube.com/watch?v=rFlbjWC6zYA) (sigue el enlace para ver la presentación en Juliacon 2021)
 
