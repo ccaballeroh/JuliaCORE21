@@ -154,7 +154,7 @@ El ambiente de desarrollo integrado (IDE, en inglés) que usaremos es Visual Stu
 
 De forma oficial, un equipo de desarrolladores ha estado trabajando en la integración de [Julia en VS Code](https://www.julia-vscode.org/). Esta es la razón por la que lo usaremos.
 
-Además de lo anterior, VS Code nos permite visualizar ahora de forma nativa Jupyter Notebooks. Y como ya instalamos IJulia, de hecho ya podemos ejecutar (no solo visualizar) _notebooks_ de Jupyter escritos para Julia.
+Además de lo anterior, VS Code nos permite visualizar ahora de forma nativa Jupyter Notebooks y con la extensión de Julia, podemos ejecutarlos también sin instalar nada adicionalmente.
 
 Vamos a instalar VS Code:
 
