@@ -118,7 +118,7 @@ Nota que el _prompt_ cambió a `(@1.6) pkg>`. El símbolo `@1.6` nos indica el *
 
 ### Pluto
 
-Tal vez estés familiarizado con el ambiente de _notebooks_ de Jupyter. Aunque parezca increíble debido a su popularidad, [no a todo el mundo les gustan](https://youtu.be/7jiPeIFXb6U).
+Tal vez estés familiarizado con el ambiente de _notebooks_ de Jupyter. Aunque parezca increíble debido a su popularidad, [no a todos les gustan](https://youtu.be/7jiPeIFXb6U).
 
 Pluto es un enfoque diferente a trabajar con _notebooks_ ya que, aunque también se trabaje en el _browser_, es fundamentalmente distinto. Ya lo veremos en el primer [_notebook_](../notebooks/00.Introducción-a-Pluto.jl.html) del taller.
 
