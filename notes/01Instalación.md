@@ -89,7 +89,7 @@ De esta forma, tendrás que manualmente instalar nuevas versiones de Julia confo
 	
 	![Image ](../imgs/permisos-02.png)
 
-3. ¡Listo! Ahora puedes abrir la consola de Julia como cualquier otra aplicación. Aunque si tienes instalada la consola de Windows (recomendada y disponible en la Microsoft Store también), también aparecerá ahí.
+3.  ¡Listo! Ahora puedes abrir la consola de Julia como cualquier otra aplicación desde el menú de inicio, escribir `julia` en una consola de símbolo del sistema y, adicionalmente, si tienes instalada la consola de Windows (recomendada y disponible en la Microsoft Store también), también aparecerá ahí.
 
 	![Instalar](../imgs/ms-store-03.png)
 
