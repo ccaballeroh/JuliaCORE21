@@ -133,7 +133,9 @@ en el gestor de paquetes. Al terminar, deberás tener una pantalla como la sigui
 
 ### IJulia
 
-IJulia es el _kernel_ de Julia para Jupyter. Aunque no usaremos _notebooks_ de Jupyter en este taller, hay muchos materiales disponibles en Internet en este formato. Por lo tanto, lo instalaremos para que Julia esté visible desde tu instalación propia de Jupyter y puedas abrir _notebooks_ de Jupyter desde Jupyter Lab o incluso desde VS Code (a continuación lo instalaremos).
+IJulia es el _kernel_ de Julia para Jupyter. Aunque no usaremos _notebooks_ de Jupyter en este taller, hay muchos materiales disponibles en Internet en este formato. Por lo tanto, lo instalaremos para que Julia esté visible desde tu instalación propia de Jupyter y puedas abrir _notebooks_ de Jupyter desde Jupyter Lab, por ejemplo.
+
+La nueva versión de la extensión de Jupyter para VS Code, permite ver y **correr** _notebooks_ de Jupyter desde VS Code **sin instalar IJulia**. Lo instalamos para los que acostumbren usar Jupyter.
 
 En el gestor de paquetes, escribe
 
