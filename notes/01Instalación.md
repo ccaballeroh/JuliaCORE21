@@ -45,6 +45,8 @@ Las instrucciones para instalar Julia para cada sistema operativo están en ingl
 
 Vamos a dar más detalle para instalar en Windows porque hay ciertos detalles que cuidar. Para el caso de Linux/Mac, lo más probable es que estés más familiarizado con el uso de la terminal y no tengas problema siguiendo las instrucciones de la documentación.
 
+En Windows (10, al menos), hay dos formas para instalar Julia:
+
 1. La más nueva y rápida (y versátil) desde la [Microsoft Store](https://www.youtube.com/watch?v=rFlbjWC6zYA) (sigue el enlace para ver la presentación en Juliacon 2021)
 
 2. La descarga e instalación manual 
